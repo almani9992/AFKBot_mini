@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
-  host: 'localhost', // استبدلها بـ IP السيرفر أو hostname
-  port: 25565, // البورت
+  host: 'gold.magmanode.com', // استبدلها بـ IP السيرفر أو hostname
+  port: 31657, // البورت
   username: 'GamesWorldBot' // اسم البوت
 });
 
